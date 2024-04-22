@@ -18,3 +18,9 @@ Click on Add deployment branch rule.
 Enter the pattern main.
 This should allow deployments from the main branch to your github-pages environment.
 ```
+
+# TODO
+- router, why profile does not take effect?
+- using css and redesign the first page
+- use browser router, it seems that github now support browser router
+- ...
